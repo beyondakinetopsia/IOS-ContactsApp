@@ -1,2 +1,3 @@
 # IOS-ContactsApp
-IOS contacts app without database entities. MVC applied.
+IOS contacts app without database entities with Swift in Xcode. MVC applied.
+
